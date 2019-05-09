@@ -22,7 +22,7 @@ border-style: solid;
 }
 #next {
 font-family: "Courier New", Courier, monospace;
-font-size: 50px;
+font-size: 35px;
 text-align: center;
 border: center;
 border-style: solid;
@@ -31,7 +31,7 @@ border-style: solid;
 h2 {
 
 font-family: "Courier New", Courier, monospace;
-font-size: 50px;
+font-size: 35px;
 
 }
 img {
@@ -49,6 +49,6 @@ font-size: 25px;
 li {
 
 font-family: "Courier New", Courier, monospace;
-font-size: 30px;
+font-size: 20px;
 
 }
