@@ -1,0 +1,48 @@
+#evidencewel {
+font-family: "Courier New", Courier, monospace;
+font-size: 50px;
+text-align: center;
+
+}
+body {
+
+    background-image: url("white.png");
+	background-repeat: no-repeat;
+	background-size: 250%;
+
+}
+#back {
+
+font-family: "Courier New", Courier, monospace;
+font-size: 50px;
+text-align: center;
+border: center;
+border-style: solid;
+
+}
+#next {
+font-family: "Courier New", Courier, monospace;
+font-size: 50px;
+text-align: center;
+border: center;
+border-style: solid;
+
+}
+h2 {
+
+font-family: "Courier New", Courier, monospace;
+font-size: 50px;
+
+}
+img {
+
+width: 50%;
+width: 50%;
+
+}
+p {
+
+font-family: "Courier New", Courier, monospace;
+font-size: 25px;
+
+}
