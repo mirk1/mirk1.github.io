@@ -1,0 +1,40 @@
+body {
+	background-image: url("white.png");
+	background-repeat: no-repeat;
+	background-size: 150%;
+}
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 50px;
+	text-align: center;
+
+}
+.cata {
+
+font-family: "Courier New", Courier, monospace;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+
+.instruc {
+
+    font-family: "Courier New", Courier, monospace;
+	font-size: 42px;
+	text-align: center;
+	border: top;
+	border-style: dashed;
+
+
+}
+
+
+#start {
+
+border: bottom; 
+border-style: solid;    
+    
+
+
+}
