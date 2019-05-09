@@ -8,7 +8,7 @@ body {
 
     background-image: url("white.png");
 	background-repeat: no-repeat;
-	background-size: 250%;
+	background-size: 400%;
 
 }
 #back {
@@ -41,6 +41,12 @@ width: 50%;
 
 }
 p {
+
+font-family: "Courier New", Courier, monospace;
+font-size: 25px;
+
+}
+li {
 
 font-family: "Courier New", Courier, monospace;
 font-size: 25px;
