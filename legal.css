@@ -1,0 +1,25 @@
+body {
+	background-image: url("white.png");
+	background-repeat: no-repeat;
+	background-size: 150%;
+}
+
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 50px;
+	text-align: center;
+
+}
+p {
+
+font-family: "Courier New", Courier, monospace;
+font-size: 40px;
+text-align: center;
+
+}
+#back {
+border: top;
+border-style: solid;
+position: center;
+
+}
