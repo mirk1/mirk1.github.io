@@ -43,3 +43,9 @@ border: center;
 border-style: solid;
 
 }
+li {
+
+	font-family: "Courier New", Courier, monospace;
+	font-size: 35px;
+
+}
